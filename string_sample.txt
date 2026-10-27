@@ -1,0 +1,10 @@
+public class string_sample{
+public static void main(String args[]){
+String name="Kaviya";
+System.out.println(name.length());
+System.out.println(name.toUppercase());
+System.out.println(name.toLowercase());
+}
+}
+
+
